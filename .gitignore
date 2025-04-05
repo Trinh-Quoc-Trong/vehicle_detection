@@ -1,0 +1,2 @@
+# Ignore model weight files
+*.pt 
