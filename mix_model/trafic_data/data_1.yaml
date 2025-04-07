@@ -1,0 +1,5 @@
+train: D:/code/projects/vehicle detection/mix_model/trafic_data/train/images
+val: D:/code/projects/vehicle detection/mix_model/trafic_data/valid/images
+
+nc: 21
+names: ['ambulance', 'army vehicle', 'auto rickshaw', 'bicycle', 'bus', 'car', 'garbagevan', 'human hauler', 'minibus', 'minivan', 'motorbike', 'pickup', 'policecar', 'rickshaw', 'scooter', 'suv', 'taxi', 'three wheelers -CNG-', 'truck', 'van', 'wheelbarrow']
